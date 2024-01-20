@@ -49,6 +49,15 @@ main > table {
   padding: 10px;
 }
 
-/* h1, h2, h3, h4, h5, h6, p {
-  margin-bottom: 203px;
-} */
+.flex {
+  display: flex;
+}
+
+.lado_esquerdo {
+  width: auto;
+  margin-right: 50px;
+}
+
+.lado_direito {
+  width: auto;
+}
