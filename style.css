@@ -53,11 +53,11 @@ main > table {
   display: flex;
 }
 
-.lado_esquerdo {
+.lado-esquerdo {
   width: auto;
   margin-right: 50px;
 }
 
-.lado_direito {
+.lado-direito {
   width: auto;
 }
