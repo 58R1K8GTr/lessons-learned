@@ -4,4 +4,4 @@
 - Estensão vscode live-server
 
 ## Como rodar:
-- abra o arquivo index.html no navegador
+- abra o site `localhost:5500`
